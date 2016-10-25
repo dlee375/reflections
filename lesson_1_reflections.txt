@@ -1,0 +1,12 @@
+By showing and emphasizing changes made, diff -u commnand can help with debugging. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	By checking the flow or evolvement of thoughts more easily. 
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Manual : It gives controls to the user and do the commit at the logical juncture
+	Automatic: It makes sure that a version is saved at given intervals. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git allows tracking multiple files together as some changes may have impact multiple files together. 
