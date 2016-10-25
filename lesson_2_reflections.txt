@@ -1,0 +1,4 @@
+To initialize git, go to the directory and do "git init"
+"git status" will give you the status of git in that directory. 
+
+"staging area" is a temporary workspace before commit to the repository. You can add a file using "git add" and you can remove a file using "git reset". "git status" will give you what's in the staging area. 
